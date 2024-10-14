@@ -14,13 +14,19 @@ Here are the tools and technologies I work with:
 | **Visualization**    | Tableau                                                                        |
 | **Data Processing**  | Pandas, SQL, Excel, Google Sheets                                              |
 | **Version Control**  | Git, GitHub                                                                    |
-| **Stat. Analysis**   | scipy, statsmodels, hypothesis testing, t-tests, p-value analysis              |
+| **Stat. Analysis**   | scipy, statsmodels, hypothesis testing, t-tests, p-value analysis, A/B tests   |
 
 ---
 
 ## 🌱 I’m currently learning:
 
-- Advanced Data Analyst by Yandex Practicum
+- «Data Analyst Advanced» by Yandex Practicum
+
+---
+
+## ⛵ Studied:
+
+- «Learn Python» by Moscow Python
 
 ---
 
